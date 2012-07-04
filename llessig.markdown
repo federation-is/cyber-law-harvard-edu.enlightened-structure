@@ -52,9 +52,9 @@ Lessig holds a BA in economics and a BS in management from the University of Pen
 
 [more][8]
 
-*   [The Microsoft Case - Fall 1998][9]
+*   [The Law of Cyberspace: Social Protocols - Fall 1998][9]
 
-*   [The Law of Cyberspace: Social Protocols - Fall 1998][10]
+*   [The Microsoft Case - Fall 1998][10]
 
 *   [The High Tech Entrepreneur - Winter 1998][11]
 
@@ -109,8 +109,8 @@ This page was forked with permission from <a href="http://cyber.law.harvard.edu/
 [6]: http://cyber.law.harvard.edu/publications/2001/The_Future_Of_Ideas
 [7]: http://cyber.law.harvard.edu/publications/1999/Code_And_Other_Laws_Of_Cyberspace
 [8]: http://cyber.law.harvard.edu/views/publications/70
-[9]: http://cyber.law.harvard.edu/teaching/courses/1998/fall/microsoft
-[10]: http://cyber.law.harvard.edu/teaching/courses/1998/fall/protocols
+[9]: http://cyber.law.harvard.edu/teaching/courses/1998/fall/protocols
+[10]: http://cyber.law.harvard.edu/teaching/courses/1998/fall/microsoft
 [11]: http://cyber.law.harvard.edu/teaching/courses/1998/winter/hightech
 [12]: http://cyber.law.harvard.edu/teaching/courses/1997/winter/cyberspace
 [13]: http://cyber.law.harvard.edu/interactive/events/2008/04/lessigAudio
