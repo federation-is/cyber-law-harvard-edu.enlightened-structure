@@ -19,20 +19,20 @@ The Berkman Center's mission is to explore and understand cyberspace; to study i
 
 We are a research center, premised on the observation that what we seek to learn is not already recorded. Our method is to build out into cyberspace, record data as we go, self-study, and share. Our mode is entrepreneurial nonprofit.
 
-* [**Frequently Asked Questions**][1]
-* [**Funding & Support Policies**][2]
-* **[Annual reports][3]  
+* [**Frequently Asked Questions**](http://cyber.law.harvard.edu/about/faq)
+* [**Funding & Support Policies**](http://cyber.law.harvard.edu/about/support)
+* **[Annual reports](http://cyber.law.harvard.edu/about/annualreports "")  
 **
 
 **The Center in Brief**
 
 The Berkman Center was founded to explore cyberspace, share in its study, and help pioneer its development. We represent a network of faculty, students, fellows, entrepreneurs, lawyers, and virtual architects working to identify and engage with the challenges and opportunities of cyberspace.
 
-We [investigate][4] the real and possible boundaries in cyberspace between open and closed systems of code, of commerce, of governance, and of education, and the relationship of law to each. We do this through active rather than passive research, believing that the best way to understand cyberspace is to actually build out into it.
+We [investigate](http://cyber.law.harvard.edu/../research) the real and possible boundaries in cyberspace between open and closed systems of code, of commerce, of governance, and of education, and the relationship of law to each. We do this through active rather than passive research, believing that the best way to understand cyberspace is to actually build out into it.
 
-Our [faculty][5], [fellows][6], students, and affiliates engage with a wide spectrum of Net issues, including governance, privacy, intellectual property, antitrust, content control, and electronic commerce. Our diverse research interests cohere in a common understanding of the Internet as a social and political space where constraints upon inhabitants are determined not only through the traditional application of law, but, more subtly, through technical architecture ("code").
+Our [faculty](http://cyber.law.harvard.edu/../people/faculty), [fellows](http://cyber.law.harvard.edu/../people/fellows), students, and affiliates engage with a wide spectrum of Net issues, including governance, privacy, intellectual property, antitrust, content control, and electronic commerce. Our diverse research interests cohere in a common understanding of the Internet as a social and political space where constraints upon inhabitants are determined not only through the traditional application of law, but, more subtly, through technical architecture ("code").
 
-As part of our active research mission, we build, use, and freely share open software platforms for free [online lectures and discussions][7]. We also sponsor [gatherings][8], ranging from informal lunches to international conferences, that bring together members of our diverse network of participants to swap insights – and sometimes barbs – as they stake out their respective visions for what the Net can become. We also [teach][9], seeking out online and global opportunities, as well as supporting the traditional Harvard Law School curriculum, often in conjunction with other Harvard schools and MIT.
+As part of our active research mission, we build, use, and freely share open software platforms for free [online lectures and discussions](http://cyber.law.harvard.edu/../interactive). We also sponsor [gatherings](http://cyber.law.harvard.edu/../events), ranging from informal lunches to international conferences, that bring together members of our diverse network of participants to swap insights – and sometimes barbs – as they stake out their respective visions for what the Net can become. We also [teach](http://cyber.law.harvard.edu/../teaching), seeking out online and global opportunities, as well as supporting the traditional Harvard Law School curriculum, often in conjunction with other Harvard schools and MIT.
 
 <form action="/about" accept-charset="UTF-8" method="post" id="search-block-form">
 <div>
@@ -45,65 +45,65 @@ As part of our active research mission, we build, use, and freely share open sof
 </div>
 </form>
 
-*   [Blogging Common][10]
+*   [Blogging Common](http://cyber.law.harvard.edu/research/blogging_common)
 
-*   [Broadband][11]
+*   [Broadband](http://cyber.law.harvard.edu/research/broadband)
 
-*   [Chilling Effects][12]
+*   [Chilling Effects](http://cyber.law.harvard.edu/research/chillingeffects)
 
-*   [Circumvention][13]
+*   [Circumvention](http://cyber.law.harvard.edu/research/circumvention)
 
-*   [Citizen Media Law Project][14]
+*   [Citizen Media Law Project](http://cyber.law.harvard.edu/research/citmedialaw)
 
-*   [Cooperation][15]
+*   [Cooperation](http://cyber.law.harvard.edu/research/cooperation)
 
-*   [Cyberlaw Clinic][16]
+*   [Cyberlaw Clinic](http://cyber.law.harvard.edu/teaching/cyberlawclinic)
 
-*   [Cybersecurity][17]
+*   [Cybersecurity](http://cyber.law.harvard.edu/research/cybersecurity)
 
-*   [DDoS research project][18]
+*   [DDoS research project](http://cyber.law.harvard.edu/research/ddos)
 
-*   [Digital Public Library of America][19]
+*   [Digital Public Library of America](http://cyber.law.harvard.edu/research/dpla)
 
-*   [Global Network Initiative][20]
+*   [Global Network Initiative](http://cyber.law.harvard.edu/research/principles)
 
-*   [H2O][21]
+*   [H2O](http://cyber.law.harvard.edu/research/h2o)
 
-*   [Harvard Open Access Project][22]
+*   [Harvard Open Access Project](http://cyber.law.harvard.edu/research/hoap)
 
-*   [Herdict][23]
+*   [Herdict](http://cyber.law.harvard.edu/research/herdict)
 
-*   [Impact of the Internet on Russian Politics, Media, and Society][24]
+*   [Impact of the Internet on Russian Politics, Media, and Society](http://cyber.law.harvard.edu/research/russia)
 
-*   [Input to ICANN Accountability and Transparency Review Process][25]
+*   [Input to ICANN Accountability and Transparency Review Process](http://cyber.law.harvard.edu/research/icann_study)
 
-*   [Internet Law Program (iLaw)][26]
+*   [Internet Law Program (iLaw)](http://cyber.law.harvard.edu/teaching/ilaw)
 
-*   [Internet Robustness][27]
+*   [Internet Robustness](http://cyber.law.harvard.edu/research/internetrobustness)
 
-*   [Interoperability][28]
+*   [Interoperability](http://cyber.law.harvard.edu/research/interoperability)
 
-*   [Jamaica Project][29]
+*   [Jamaica Project](http://cyber.law.harvard.edu/research/jamaica)
 
-*   [Law Lab][30]
+*   [Law Lab](http://cyber.law.harvard.edu/research/lawlab)
 
-*   [Media Cloud][31]
+*   [Media Cloud](http://cyber.law.harvard.edu/research/mediacloud)
 
-*   [metaLAB (at) Harvard][32]
+*   [metaLAB (at) Harvard](http://cyber.law.harvard.edu/research/metalab)
 
-*   [Mindsport Research Network][33]
+*   [Mindsport Research Network](http://cyber.law.harvard.edu/research/mindsport)
 
-*   [OpenNet Initiative][34]
+*   [OpenNet Initiative](http://cyber.law.harvard.edu/research/opennet)
 
 *   <a class="child" href="http://cyber.law.harvard.edu/research/surveillance"> » Surveillance</a>
 
-*   [ProjectVRM][35]
+*   [ProjectVRM](http://cyber.law.harvard.edu/research/projectvrm)
 
-*   [Publius project][36]
+*   [Publius project](http://cyber.law.harvard.edu/research/publius)
 
-*   [Rethink Music][37]
+*   [Rethink Music](http://cyber.law.harvard.edu/research/rethink_music)
 
-*   [Youth and Media project][38]
+*   [Youth and Media project](http://cyber.law.harvard.edu/research/youthandmedia)
 
 *   <a class="child" href="http://cyber.law.harvard.edu/research/youthandmedia/bornthisway"> » Born This Way Foundation Partnership</a>
 
@@ -113,75 +113,26 @@ As part of our active research mission, we build, use, and freely share open sof
 
 *   <a class="child" href="http://cyber.law.harvard.edu/research/youthandmedia/lab"> » Youth and Media Lab</a>
 
-*   [Public Radio Exchange][39]
+*   [Public Radio Exchange](http://cyber.law.harvard.edu/research/prx)
 
 *   ### Spinoffs
 
-*   [Creative Commons][40]
+*   [Creative Commons](http://cyber.law.harvard.edu/research/creativecommons)
 
-*   [Global Voices][41]
+*   [Global Voices](http://cyber.law.harvard.edu/research/globalvoicesonline)
 
-*   [Noank Media][42]
+*   [Noank Media](http://cyber.law.harvard.edu/research/noankmedia)
 
-*   [StopBadware.org][43]
+*   [StopBadware.org](http://cyber.law.harvard.edu/research/stopbadware)
 
-*   [Recommended Readings][44]
+*   [Recommended Readings](http://cyber.law.harvard.edu/about/readings)
 
-*   [Contact][45]
+*   [Contact](http://cyber.law.harvard.edu/about/contact)
 
-*   [Berkman@10 (special annual report)][46]
+*   [Berkman@10 (special annual report)](http://cyber.law.harvard.edu/publications/2007/Berkman_at_10)
 
 * * *
 
 This page was forked with permission from <a href="http://cyber.law.harvard.edu/about" target="_blank">http://cyber.law.harvard.edu/about</a>
 
-* * *[Creative Commons Attribution 3.0 Unported][47]
-
-
-[1]: http://cyber.law.harvard.edu/about/faq
-[2]: http://cyber.law.harvard.edu/about/support
-[3]: http://cyber.law.harvard.edu/about/annualreports  ""
-[4]: http://cyber.law.harvard.edu/../research
-[5]: http://cyber.law.harvard.edu/../people/faculty
-[6]: http://cyber.law.harvard.edu/../people/fellows
-[7]: http://cyber.law.harvard.edu/../interactive
-[8]: http://cyber.law.harvard.edu/../events
-[9]: http://cyber.law.harvard.edu/../teaching
-[10]: http://cyber.law.harvard.edu/research/blogging_common
-[11]: http://cyber.law.harvard.edu/research/broadband
-[12]: http://cyber.law.harvard.edu/research/chillingeffects
-[13]: http://cyber.law.harvard.edu/research/circumvention
-[14]: http://cyber.law.harvard.edu/research/citmedialaw
-[15]: http://cyber.law.harvard.edu/research/cooperation
-[16]: http://cyber.law.harvard.edu/teaching/cyberlawclinic
-[17]: http://cyber.law.harvard.edu/research/cybersecurity
-[18]: http://cyber.law.harvard.edu/research/ddos
-[19]: http://cyber.law.harvard.edu/research/dpla
-[20]: http://cyber.law.harvard.edu/research/principles
-[21]: http://cyber.law.harvard.edu/research/h2o
-[22]: http://cyber.law.harvard.edu/research/hoap
-[23]: http://cyber.law.harvard.edu/research/herdict
-[24]: http://cyber.law.harvard.edu/research/russia
-[25]: http://cyber.law.harvard.edu/research/icann_study
-[26]: http://cyber.law.harvard.edu/teaching/ilaw
-[27]: http://cyber.law.harvard.edu/research/internetrobustness
-[28]: http://cyber.law.harvard.edu/research/interoperability
-[29]: http://cyber.law.harvard.edu/research/jamaica
-[30]: http://cyber.law.harvard.edu/research/lawlab
-[31]: http://cyber.law.harvard.edu/research/mediacloud
-[32]: http://cyber.law.harvard.edu/research/metalab
-[33]: http://cyber.law.harvard.edu/research/mindsport
-[34]: http://cyber.law.harvard.edu/research/opennet
-[35]: http://cyber.law.harvard.edu/research/projectvrm
-[36]: http://cyber.law.harvard.edu/research/publius
-[37]: http://cyber.law.harvard.edu/research/rethink_music
-[38]: http://cyber.law.harvard.edu/research/youthandmedia
-[39]: http://cyber.law.harvard.edu/research/prx
-[40]: http://cyber.law.harvard.edu/research/creativecommons
-[41]: http://cyber.law.harvard.edu/research/globalvoicesonline
-[42]: http://cyber.law.harvard.edu/research/noankmedia
-[43]: http://cyber.law.harvard.edu/research/stopbadware
-[44]: http://cyber.law.harvard.edu/about/readings
-[45]: http://cyber.law.harvard.edu/about/contact
-[46]: http://cyber.law.harvard.edu/publications/2007/Berkman_at_10
-[47]: http://creativecommons.org/licenses/by/3.0/
+* * *[Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/)
