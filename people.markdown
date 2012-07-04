@@ -11,7 +11,7 @@
 
 </ul>
 
-[ ][1]
+[ ](http://cyber.law.harvard.edu/people/ybenkler)
 
 ![Benkler_5x7_DSC_2890.jpg](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/Benkler_5x7_DSC_2890.jpg "Benkler_5x7_DSC_2890.jpg")
 
@@ -21,7 +21,7 @@
 
 Yochai Benkler is the Jack N. and Lillian R. Berkman Professor of Entrepreneurial Studies at Harvard Law and a Faculty Co-Director of the Berkman Center for Internet & Society. He writes about the Internet and the emergence of networked economy and society, as well as the organization of infrastructure, such as wireless communications.
 
-[ ][2]
+[ ](http://cyber.law.harvard.edu/people/scrawford)
 
 ![scrawford.jpg](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/scrawford.jpg "scrawford.jpg")
 
@@ -31,7 +31,7 @@ Yochai Benkler is the Jack N. and Lillian R. Berkman Professor of Entrepreneuria
 
 Susan Crawford is the (Visiting) Stanton Professor of the First Amendment at Harvard’s Kennedy School, a Visiting Professor at Harvard Law School, and a columnist for Bloomberg View. She served as Special Assistant to the President for Science, Technology, and Innovation Policy (2009) and co-led the FCC transition team between the Bush and Obama administrations. She is a member of Mayor Michael Bloomberg’s Advisory Council on Technology and Innovation.
 
-[ ][3]
+[ ](http://cyber.law.harvard.edu/people/jdeighton)
 
 ![deighton2.jpg](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/deighton2.jpg "deighton2.jpg")
 
@@ -41,7 +41,7 @@ Susan Crawford is the (Visiting) Stanton Professor of the First Amendment at Har
 
 John Deighton is the Harold M. Brierley Professor of Business Administration at Harvard Business School. He specializes in consumer behavior and marketing, with a focus on digital marketing. Current areas of inquiry include the shifting balance between anonymity and identity in markets and the fate of brands in the hands of social media.
 
-[ ][4]
+[ ](http://cyber.law.harvard.edu/people/tfisher)
 
 ![FisherPhoto6.jpg](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/FisherPhoto6.jpg "FisherPhoto6.jpg")
 
@@ -52,7 +52,7 @@ Chair, Berkman Center for Internet & Society
 
 William Fisher is the Berkman Center's Faculty Director. He is the WilmerHale Professor of Intellectual Property Law at Harvard Law School and he specializes in intellectual property law and American legal history.
 
-[ ][5]
+[ ](http://cyber.law.harvard.edu/people/ugasser)
 
 ![Gasser Urs HI RES.JPG](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/Gasser%20Urs%20HI%20RES.JPG "Gasser Urs HI RES.JPG")
 
@@ -62,7 +62,7 @@ William Fisher is the Berkman Center's Faculty Director. He is the WilmerHale Pr
 
 Dr. Urs Gasser is the Berkman Center's Executive Director, where his research and teaching focuses on information law and policy and the interaction between law and innovation.
 
-[ ][6]
+[ ](http://cyber.law.harvard.edu/people/pmalone)
 
 ![philmalonephotomini.JPG](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/philmalonephotomini.JPG "philmalonephotomini.JPG")
 
@@ -72,7 +72,7 @@ Dr. Urs Gasser is the Berkman Center's Executive Director, where his research an
 
 Phil Malone is the Director of the Cyberlaw Clinic. Phil came to the Berkman Center after a little over 20 years as a federal prosecutor with the Antitrust Division of the U.S. Department of Justice.
 
-[ ][7]
+[ ](http://cyber.law.harvard.edu/people/cnesson)
 
 ![nesson-04.jpg](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/nesson-04.jpg "nesson-04.jpg")
 
@@ -82,7 +82,7 @@ Phil Malone is the Director of the Cyberlaw Clinic. Phil came to the Berkman Cen
 
 Charles Nesson is a Berkman Center Founder and Faculty Co-Director. He is the William F. Weld Professor of Law at Harvard Law School.
 
-[ ][8]
+[ ](http://cyber.law.harvard.edu/people/foberholzergee)
 
 ![felix.jpg](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/felix.jpg "felix.jpg")
 
@@ -92,7 +92,7 @@ Charles Nesson is a Berkman Center Founder and Faculty Co-Director. He is the Wi
 
 Felix Oberholzer-Gee is the Andreas Andresen Professor of Business Administration in the Strategy Unit at Harvard Business School.
 
-[ ][9]
+[ ](http://cyber.law.harvard.edu/people/jpalfrey)
 
 ![palfrey.jpg](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/palfrey.jpg "palfrey.jpg")
 
@@ -103,7 +103,7 @@ Director, Berkman Center for Internet & Society
 
 As Professor of Law at Harvard Law School, John’s work focuses on Internet law, intellectual property, and the potential of new technologies to strengthen democracies locally and around the world. As Vice Dean for Library and Information Resources, he directs the Harvard Law School Library and co-chairs the school's IT committee.
 
-[ ][10]
+[ ](http://cyber.law.harvard.edu/people/jschnapp)
 
 ![jeffey2_1.jpg](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/jeffey2_1.jpg "jeffey2_1.jpg")
 
@@ -113,7 +113,7 @@ As Professor of Law at Harvard Law School, John’s work focuses on Internet law
 
 Jeffrey is Professor of Romance Languages & Literature, on the teaching faculty of Harvard’s Graduate School of Design,and is the faculty director of metaLAB (at) Harvard.
 
-[ ][11]
+[ ](http://cyber.law.harvard.edu/people/sshieber)
 
 ![shieber.gif](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/shieber.gif "shieber.gif")
 
@@ -123,7 +123,7 @@ Jeffrey is Professor of Romance Languages & Literature, on the teaching faculty 
 
 Stuart Shieber is the James O. Welch, Jr. and Virginia B. Welch Professor of Computer Science at the School of Engineering and Applied Sciences at Harvard University and is a Faculty Director at the Berkman Center for Internet & Society.
 
-[ ][12]
+[ ](http://cyber.law.harvard.edu/people/mwu)
 
 ![Wu_Mark.jpg](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/Wu_Mark.jpg "Wu_Mark.jpg")
 
@@ -133,7 +133,7 @@ Stuart Shieber is the James O. Welch, Jr. and Virginia B. Welch Professor of Com
 
 Mark Wu is an Assistant Professor of Law at Harvard Law School and a Director of the Berkman Center. His work focuses on international trade and international intellectual property matters.
 
-[ ][13]
+[ ](http://cyber.law.harvard.edu/people/jzittrain)
 
 ![n7828_5122.jpg](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/imagecache/thumbnail/sites/cyber.law.harvard.edu/files/images/thumbnails/n7828_5122.jpg "n7828_5122.jpg")
 
@@ -160,20 +160,4 @@ Jonathan Zittrain is a Professor of Law at Harvard Law School and a co-founder o
 
 This page was forked with permission from <a href="http://cyber.law.harvard.edu/people" target="_blank">http://cyber.law.harvard.edu/people</a>
 
-* * *[Creative Commons Attribution 3.0 Unported][14]
-
-
-[1]: http://cyber.law.harvard.edu/people/ybenkler
-[2]: http://cyber.law.harvard.edu/people/scrawford
-[3]: http://cyber.law.harvard.edu/people/jdeighton
-[4]: http://cyber.law.harvard.edu/people/tfisher
-[5]: http://cyber.law.harvard.edu/people/ugasser
-[6]: http://cyber.law.harvard.edu/people/pmalone
-[7]: http://cyber.law.harvard.edu/people/cnesson
-[8]: http://cyber.law.harvard.edu/people/foberholzergee
-[9]: http://cyber.law.harvard.edu/people/jpalfrey
-[10]: http://cyber.law.harvard.edu/people/jschnapp
-[11]: http://cyber.law.harvard.edu/people/sshieber
-[12]: http://cyber.law.harvard.edu/people/mwu
-[13]: http://cyber.law.harvard.edu/people/jzittrain
-[14]: http://creativecommons.org/licenses/by/3.0/
+* * *[Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/)
